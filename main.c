@@ -12,7 +12,7 @@ int main(){
     char pos, Var;
     system("color B");
     printf("\n\n\n\n\n                                C Console Snake Game            \n\n");
-    printf("                        Copyrights: Prunarevic Aleksandar.           \n\n");
+    printf("                        Copyrights: Rosu Razvan.           \n\n");
     printf("                                     HAVE FUN!            \n\n\n\n\n");
     system("Pause");
     system("Cls");
